@@ -1,4 +1,4 @@
-package com.teste;
+package paranavai.ifpr.edu.br;
 
 public class SimuladorCashBack {
     /**
